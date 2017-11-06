@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
--[X] Background Color - Allows user to pick from two background colors and pick a default color.
--[X] More specific tip rate - using a step counter rather than segmented control, the user
+* [X] Background Color - Allows user to pick from two background colors and pick a default color.
+* [X] More specific tip rate - using a step counter rather than segmented control, the user
      has the ability to pick a more specific tip rate value.
 
 ## Video Walkthrough 
